@@ -7,12 +7,12 @@ get hit explode
 
 controls are:
 
- -space to fly up
+ - space to fly up
 
- -s to shot
+ - s to shot
  
- -m to mute game
+ - m to mute game
  
- -r - restart only works after lossing
+ - r - restart only works after lossing
  
- -q - quit only works after lossing
+ - q - quit only works after lossing
