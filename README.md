@@ -1,4 +1,5 @@
-This is a flappy bird clone I made for fun
+This is a flappy bird clone I made for fun.
+Made by Capitalboy
 
 you are a plane and you have to dodge buildings and shoot aliens very 9-11.
 
